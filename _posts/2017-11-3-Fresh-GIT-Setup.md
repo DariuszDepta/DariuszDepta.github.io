@@ -1,8 +1,10 @@
-Assign aliases to most used GIT commands, for example:
+Assign aliases to most used GIT commands:
 
 ```
 $ git config --global alias.s status
 ```
+
+Set your email address and your name:
 
 ```
 $ git config --global user.email "your@email.com"
