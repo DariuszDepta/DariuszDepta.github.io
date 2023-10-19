@@ -1,13 +1,15 @@
 # Go
 
-## Installation on Linux
+## Download
 
-Download newest installation version from [https://golang.org/dl/](https://golang.org/dl/).
+Download the newest installation version from [https://golang.org/dl/](https://golang.org/dl/).
 
-Installation example of version **14.4**:
+## Install
+
+### Installation example for version **21.4** on Fedora Linux
 
 ```
 $ sudo su
 # rm -rf /usr/local/go
-# tar -C /usr/local -xzf go1.14.4.linux-amd64.tar.gz
+# tar -C /usr/local -xzf go1.21.3.linux-amd64.tar.gz
 ```
